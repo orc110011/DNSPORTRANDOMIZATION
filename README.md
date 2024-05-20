@@ -35,7 +35,7 @@ nslookup @ modernstoicism.com 127.0.0.1
 This looks up the A record for modernstoicism using your my DNS server.
 We should see non-authoritative answers from the google-public-dns server, as shown below.
 <p align="center">
-<img src=https://i.imgur.com/93SQlyi.png height="65%" width="65%" />
+<img src="https://i.imgur.com/93SQlyi.png height="65%" width="65%" />
 <br />
 <br />
 -Clearing the DNS Server Cache <br/>
