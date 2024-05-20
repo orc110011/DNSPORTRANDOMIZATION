@@ -1,4 +1,4 @@
-# VULNERABILIYMGMT
+# DNSPORTRANDOMIZATIONwithWIRESHARK
 
 <h2>Description</h2>
 To run vuln scans on Windows 10 VM.
