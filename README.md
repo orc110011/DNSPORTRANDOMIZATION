@@ -1,10 +1,10 @@
-# DNSPORSOURCETRANDOMIZATION
+# VULNERABILIYMGMT
 
 <h2>Description</h2>
-Examine a Windows DNS server to see if it randomized source ports during recursive lookups.
+To run vuln scans on Windows 10 VM.
 
 <h2>Languages and Utilities Used</h2>
-- <b>DOS</b>
+- <b>Tenable's NESSUS</b>
 - <b>VMWARE Workstation Pro </b>
 
 <h2>Environments Used </h2>
@@ -14,7 +14,7 @@ Examine a Windows DNS server to see if it randomized source ports during recursi
 <h2>Program walk-through:</h2>
 -Testing your DNS Server
 <p align="center">
-In a Command Prompt window, execute this command: netstat -an | findstr :53
+Login to Nessus.
 Your server should show processes listening on both TCP and UDP ports 53, as shown below.
 <p align="center">
 <img src="https://i.imgur.com/E3DeM4K.png height="65%" width="65%" />
